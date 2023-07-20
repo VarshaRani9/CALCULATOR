@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     font-family: monospace;
+    background-color:rgb(185, 175, 165) ;
 }
 .span-2{
     grid-column:span 2;
@@ -45,7 +46,6 @@ input[type=number] {
     border: 1px solid black;
     font-weight: bold;
     font-size: 22px;
-    /* border: none; */
 }
 .button:hover{
     cursor: pointer;
